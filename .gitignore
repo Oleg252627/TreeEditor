@@ -1,0 +1,13 @@
+bin/
+obj/
+node_modules/
+.idea/
+.vs/
+.vscode/
+*.user
+*.DotSettings.user
+.DS_Store
+TestResults/
+
+# Built UI (produced by `npm run build` / Docker image build)
+src/TreeEditor.Api/wwwroot/
